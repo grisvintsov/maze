@@ -25,9 +25,9 @@ namespace flashmaze
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
             var map = e.Graphics;
-            for (int i = 0; i < 7; i++)
+            for (int i = 0; i < 10; i++)
             {
-                for (int j = 0; j < 7; j++)
+                for (int j = 0; j < 10; j++)
                 {
                     if (engin.mas[j, i] is wall) map.DrawImage((Image)Resources.wall, engin.mas[j, i].coordX, engin.mas[j, i].coordY);
                     if (engin.mas[j, i] is way) map.DrawImage((Image)Resources.way, engin.mas[j, i].coordX, engin.mas[j, i].coordY);
@@ -44,7 +44,7 @@ namespace flashmaze
             pictureBox1.Invalidate();
             if (engin.nextlvl)
             {
-                MessageBox.Show("next");
+                MessageBox.Show("Вы выиграли игра закончина", "Конец");
                 timer1.Enabled = false;                
                 
             }

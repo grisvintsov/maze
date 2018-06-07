@@ -14,7 +14,7 @@ namespace flashmaze
         public bool nextlvl;
         public void readtxt()
         {
-            using (StreamReader sr = new StreamReader(@"C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\maps\Map01.txt", System.Text.Encoding.Default))
+            using (StreamReader sr = new StreamReader(@"maps\Map01.txt", System.Text.Encoding.Default))
             {
                 string line;
                 int i = 0;
