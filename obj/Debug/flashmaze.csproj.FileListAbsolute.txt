@@ -1,9 +1,0 @@
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\bin\Debug\flashmaze.exe.config
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\obj\Debug\flashmaze.csprojResolveAssemblyReference.cache
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\obj\Debug\flashmaze.Properties.Resources.resources
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\obj\Debug\flashmaze.csproj.GenerateResource.Cache
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\bin\Debug\flashmaze.exe
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\bin\Debug\flashmaze.pdb
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\obj\Debug\flashmaze.Form1.resources
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\obj\Debug\flashmaze.exe
-C:\Users\grixa\Desktop\GAMEDEV\flashmaze\flashmaze\flashmaze\obj\Debug\flashmaze.pdb
