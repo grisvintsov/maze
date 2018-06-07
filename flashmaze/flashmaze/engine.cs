@@ -9,7 +9,7 @@ namespace flashmaze
 {
     class engine
     {
-        public cell_type[,] mas = new cell_type[10, 10];
+        public cell_type[,] mas = new cell_type[100, 100];
         public player deadpool = new player();
         public bool nextlvl;
         public void readtxt()
